@@ -1,0 +1,12 @@
+name: finemapping
+channels:
+  - defaults
+dependencies:
+  - gsl
+  - python=3.8.5
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - vcftools
+prefix: /Users/mguardado1/Downloads/ENTER/envs/finemapping
