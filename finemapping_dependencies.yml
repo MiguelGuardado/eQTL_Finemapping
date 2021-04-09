@@ -1,6 +1,7 @@
 name: finemapping
 channels:
   - defaults
+  - bioconda
 dependencies:
   - gsl
   - python=3.8.5
@@ -8,5 +9,5 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
-  - vcftools
-prefix: /Users/mguardado1/Downloads/ENTER/envs/finemapping
+  - vcftools 
+prefix: finemapping
